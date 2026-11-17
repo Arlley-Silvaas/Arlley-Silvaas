@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">YOOh GUYS!! My name is Arlley and I'm a beginner in DEV and I'm looking to learn more about programming and show my projects to you. I accept project proposals and help with my project mistakes.</h2>
+<h2 align="left">YOOh GUYS!! My name is Arlley and I'm a beginner DEV and I'm looking to learn more about programming and show my projects to you. I accept project proposals and help with my project mistakes.</h2>
 
 ###
 
